@@ -19,18 +19,22 @@ A flutter based Heathcare awareness app for the Coronavirus(COVID-19).
     <h2>Sketches</h2>
 
    <ul>
-       <li>Home Page & Country details Page<br><img src="/sketches/main.jpg" alt="" width="200" height="475" > &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <img src="/sketches/country.jpg" alt="" width="200" height="475"></li>
-      <li>Symptoms & Prevention Page, Quarantine tips Page <br> <img src="/sketches/symptoms.jpg" alt="" width="200" height="475">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  <img src="/sketches/tips.jpg" alt=""width="200" height="475"></li>
+       <li>Home Page & Country Details Page<br><br><img src="/sketches/main.jpg" alt="" width="200" height="475" > &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <img src="/sketches/country.jpg" alt="" width="200" height="475"></li>
+      <li>Symptoms & Prevention Page, Quarantine tips Page <br> <br><img src="/sketches/symptoms.jpg" alt="" width="200" height="475">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  <img src="/sketches/tips.jpg" alt=""width="200" height="475"></li>
    </ul>
    <h2>Screens</h2>
     <ul>
-       <li>Home Page<br><img src="/screens/home_pg1.png" alt="" width="250" height="475" >&nbsp;&nbsp; <img src = "/screens/home_pg2.png" alt="" width="250" height="475"></li>
- <li>
+       <li>Home Page<br><br><img src="/screens/home_pg1.png" alt="" width="250" height="475" >&nbsp;&nbsp; <img src = "/screens/home_pg2.png" alt="" width="250" height="475"></li><br>
+
   <li>
-    Symptoms & Preventions Page<br><img src="/screens/symptoms_pg1.png" alt="" width="250" height="475" >&nbsp;&nbsp;<img src  ="/screens/symptoms_pg2.png" alt="" width="250" height="475">
- </li>
+    Symptoms & Preventions Page<br><br><img src="/screens/symptoms_pg1.png" alt="" width="250" height="475" >&nbsp;&nbsp;<img src  ="/screens/symptoms_pg2.png" alt="" width="250" height="475">
+ </li><br>
+ 
  <li>
-     Country details Page<br><img src="/screens/country_pg1.png" alt="" width="250" height="475" >&nbsp;&nbsp;<img src ="/screens/country_pg2.png" alt="" width="250" height="475">&nbsp;&nbsp;<img src ="/screens/country_pg3.png" alt=""    width="250" height="475">
- </li>
+     Country Details Page<br><br><img src="/screens/country_pg1.png" alt="" width="250" height="475" >&nbsp;&nbsp;<img src ="/screens/country_pg2.png" alt="" width="250" height="475">&nbsp;&nbsp;<img src ="/screens/country_pg3.png" alt=""    width="250" height="475">
+ </li><br>
+ <li>
+    Quarantine Tips Page<br><br><img src="/screens/tips_pg1.png" alt="" width="250" height="475" >&nbsp;&nbsp;<img src ="/screens/tips_pg2.png" alt="" width="250" height="475">&nbsp;&nbsp;<img src ="/screens/tips_pg3.png" alt=""    width="250" height="475">&nbsp;&nbsp;<img src="/screens/tips_pg4.png" alt="" width="250" height="475" >
+ </li><br>
  
  </ul>
