@@ -38,4 +38,4 @@ A flutter based Heathcare awareness app for the Coronavirus(COVID-19).
  </li><br>
  </ul>
  
-## Stay Healthy! Stay Safe!
+ <h3>Stay Healthy! Stay Safe! </h3>
