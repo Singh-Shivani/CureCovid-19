@@ -36,5 +36,6 @@ A flutter based Heathcare awareness app for the Coronavirus(COVID-19).
  <li>
     Quarantine Tips Page<br><br><img src="/screens/tips_pg1.png" alt="" width="250" height="475" >&nbsp;&nbsp;<img src ="/screens/tips_pg2.png" alt="" width="250" height="475">&nbsp;&nbsp;<img src ="/screens/tips_pg3.png" alt=""    width="250" height="475">&nbsp;&nbsp;<img src="/screens/tips_pg4.png" alt="" width="250" height="475" >
  </li><br>
- 
  </ul>
+ 
+## Stay Healthy! Stay Safe!
