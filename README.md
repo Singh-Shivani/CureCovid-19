@@ -1,16 +1,23 @@
-# covid19app
+# CureCovid-19
 
-A new Flutter application.
+A flutter based Heathcare awareness app for the Coronavirus(COVID-19).
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div >
+        <h2>About the app</h2>
+   
+  <p>1. The main objective of app 
+            is give the details about COVID-19. 
+            Everyone must need to know about Coronavirus
+             and information regarding the same.
+             <br>
+            2. This app will provide the information about coronavirus
+             like Live Update
+             on cases, FAQ, Myth Busters, Symptoms & Prevention, Country wise details, 
+             Dead, Recover, Critical people.
+             <br>
+             3. The app UI design is inspired from <a href="https://www.uplabs.com/posts/coronavirus-information-concept">by Rendi Ramadana</a>. Though UI is not exactly same, some parts of app are customized.
+        </p>
+    </div>
