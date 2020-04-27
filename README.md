@@ -23,5 +23,9 @@ A flutter based Heathcare awareness app for the Coronavirus(COVID-19).
       <li>Symptoms & Prevention Page, Quarantine tips Page <br> <img src="/sketches/symptoms.jpg" alt="" width="200" height="475">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  <img src="/sketches/tips.jpg" alt=""width="200" height="475"></li>
    </ul>
    <h2>Screens</h2>
+    <ul>
+       <li>Home Page, Symptoms & Country details Page<br><img src="/mockups/main.jpg" alt="" width="200" height="475" >          &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <img src="/mockups/country.jpg" alt="" width="200" height="475"></li>
+       <li>Symptoms & Prevention Page, Quarantine tips Page <br> <img src="/mockups/symptoms.jpg" alt="" width="200"   height="475">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  <img src="/mockups/tips.jpg" alt=""width="200"     height="475"></li>
+</ul>
        
      
