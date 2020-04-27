@@ -5,8 +5,8 @@ A flutter based Heathcare awareness app for the Coronavirus(COVID-19).
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
     <h2>About the app</h2>
-   
-    <ul>
+
+     <ul>
             <li>The main objective of app is give the details about COVID-19. Everyone must need to know about Coronavirus and information regarding the same.</li>
             <li>This app will provide the information about coronavirus like Live Update on cases, FAQ, Myth Busters, Symptoms & Prevention, Country wise details, Dead, Recover, Critical people.</li>
             <li> The app UI design is inspired from <a href="https://www.uplabs.com/posts/coronavirus-information-concept">by Rendi Ramadana</a>. Though UI is not exactly same, some parts of app are customized.</li>
@@ -18,6 +18,5 @@ A flutter based Heathcare awareness app for the Coronavirus(COVID-19).
             <li>Symptoms and Preventions are also provided for the awareness socially. </li>
             <li>The app also provide information about Q&N, myth busters provided by WHO and some tips for Quarantine.</li>
         </ul>
+        <h2>Mockups</h2>
         
-
-
