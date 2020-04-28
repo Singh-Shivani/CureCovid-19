@@ -38,7 +38,6 @@ A flutter based Heathcare👨‍⚕️ awareness app for the Coronavirus(COVID-1
  </li>
  </ul>
  <h3>In action⚡</h3><br>
- 
-<img src="" width="300"/>
+<img src="https://user-images.githubusercontent.com/47295558/80484669-b93a3500-8975-11ea-9144-6928d7465126.gif" />
 
  <h3>Stay Healthy!✨ Stay Safe!🖖 </h3>
