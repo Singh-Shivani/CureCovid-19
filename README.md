@@ -19,7 +19,7 @@ A flutter based Heathcare👨‍⚕️ awareness app for the Coronavirus(COVID-1
     <h2>Sketches✏️</h2>
 
    <ul>
-       <li>Home Page & Country Details Page<br><br><img src="/sketches/main.jpg" alt="" width="200" height="475" > &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <img src="/sketches/country.jpg" alt="" width="200" height="475"></li>
+       <li>Home Page & Country Details Page<br><br><img src="/sketches/home.jpg" alt="" width="200" height="475" > &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <img src="/sketches/country.jpg" alt="" width="200" height="475"></li>
       <li>Symptoms & Prevention Page, Quarantine tips Page <br> <br><img src="/sketches/symptoms.jpg" alt="" width="200" height="475">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  <img src="/sketches/tips.jpg" alt=""width="200" height="475"></li>
    </ul>
    <h2>Screens📱</h2>
