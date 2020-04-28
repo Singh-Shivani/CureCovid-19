@@ -24,17 +24,17 @@ A flutter based Heathcare👨‍⚕️ awareness app for the Coronavirus(COVID-1
    </ul>
    <h2>Screens📱</h2>
     <ul>
-       <li>Home Page<br><br><img src="/screens/home_pg1.png" alt="" width="250" height="475" >&nbsp;&nbsp; <img src = "/screens/home_pg2.png" alt="" width="250" height="475"></li><br>
+       <li>Home Page<br><br><img src="/screens/home_pg1.png" alt="" width="260" height="496">&nbsp;&nbsp; <img src = "/screens/home_pg2.png" alt="" width="260" height="496"></li><br>
 
   <li>
-    Symptoms & Preventions Page<br><br><img src="/screens/symptoms_pg1.png" alt="" width="250" height="475" >&nbsp;&nbsp;<img src  ="/screens/symptoms_pg2.png" alt="" width="250" height="475">
+    Symptoms & Preventions Page<br><br><img src="/screens/symptoms_pg1.png" alt="" width="260" height="496">&nbsp;&nbsp;<img src  ="/screens/symptoms_pg2.png" alt="" width="260" height="496">
  </li><br>
  
  <li>
-     Country Details Page<br><br><img src="/screens/country_pg1.png" alt="" width="250" height="475" >&nbsp;&nbsp;<img src ="/screens/country_pg2.png" alt="" width="250" height="475">&nbsp;&nbsp;<img src ="/screens/country_pg3.png" alt=""    width="250" height="475">
+     Country Details Page<br><br><img src="/screens/country_pg1.png" alt=""width="260" height="496">&nbsp;&nbsp;<img src ="/screens/country_pg2.png" alt=""width="260" height="496">&nbsp;&nbsp;<img src ="/screens/country_pg3.png" alt="" width="260" height="496">
  </li><br>
  <li>
-    Quarantine Tips Page<br><br><img src="/screens/tips_pg1.png" alt="" width="250" height="475" >&nbsp;&nbsp;<img src ="/screens/tips_pg2.png" alt="" width="250" height="475">&nbsp;&nbsp;<img src ="/screens/tips_pg3.png" alt=""    width="250" height="475">&nbsp;&nbsp;<img src="/screens/tips_pg4.png" alt="" width="250" height="475" >
+    Quarantine Tips Page<br><br><img src="/screens/tips_pg1.png" alt="" width="260" height="496" >&nbsp;&nbsp;<img src ="/screens/tips_pg2.png" alt="" width="260" height="496">&nbsp;&nbsp;<img src ="/screens/tips_pg3.png" alt=""    width="260" height="496">&nbsp;&nbsp;<img src="/screens/tips_pg4.png" alt="" width="260" height="496" >
  </li>
  </ul>
  <h3>Stay Healthy!✨ Stay Safe!🖖 </h3>
