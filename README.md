@@ -5,7 +5,7 @@ A flutter based Healthcare👨‍⚕️ awareness app for the Coronavirus(COVID-
 <h2>About the app⚡</h2>
 
  <ul>
-        <li>The main objective of app is give the details about COVID-19. Everyone must need to know about Coronavirus and information regarding the same.</li>
+        <li>The main objective of app to give the details about COVID-19. Everyone must need to know about Coronavirus and information regarding the same.</li>
         <li>This app will provide the information about coronavirus like Live Update on cases, FAQ, Myth Busters, Symptoms & Prevention, Country details regrading the coronavirus, Dead, Recover, Critical people.</li>
         <li> The app UI design is inspired from <a href="https://www.uplabs.com/posts/coronavirus-information-concept">by Rendi Ramadana</a>. Though UI is not exactly same, some parts of app are customized.</li>
     </ul>
