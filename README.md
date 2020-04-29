@@ -31,7 +31,7 @@ A flutter based Heathcare👨‍⚕️ awareness app for the Coronavirus(COVID-1
  </li><br>
  
  <li>
-     Country Details Page<br><br><img src="/screens/country_pg1.png" alt=""width="260" height="496">&nbsp;&nbsp;<img src ="/screens/country_pg2.png" alt=""width="260" height="496">&nbsp;&nbsp;<img src ="/screens/country_pg3.png" alt="" width="260" height="496">
+     Country Details Page<br><br><img src="/screens/country_pg1.png" alt=""width="260" height="496">&nbsp;&nbsp;<img src ="/screens/country_pg2.png" alt=""width="260" height="496">&nbsp;&nbsp;<img src ="/screens/country_pg3.png" alt="" width="260" height="496">&nbsp;&nbsp;<img src ="/screens/country_pg4.png" alt="" width="260" height="496">
  </li><br>
  <li>
     Quarantine Tips Page<br><br><img src="/screens/tips_pg1.png" alt="" width="260" height="496" >&nbsp;&nbsp;<img src ="/screens/tips_pg2.png" alt="" width="260" height="496">&nbsp;&nbsp;<img src ="/screens/tips_pg3.png" alt=""    width="260" height="496">&nbsp;&nbsp;<img src="/screens/tips_pg4.png" alt="" width="260" height="496" >
