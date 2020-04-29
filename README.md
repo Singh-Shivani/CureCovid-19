@@ -1,6 +1,6 @@
 # CureCovid-19
 
-A flutter based Heathcare👨‍⚕️ awareness app for the Coronavirus(COVID-19).👩‍⚕️
+A flutter based Healthcare👨‍⚕️ awareness app for the Coronavirus(COVID-19).👩‍⚕️
 
 <h2>About the app⚡</h2>
 
