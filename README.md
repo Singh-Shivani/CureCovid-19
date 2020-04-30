@@ -14,25 +14,19 @@ A flutter based Healthcare👨‍⚕️ awareness app for the Coronavirus(COVID-
         <li>Novel Covid API is a free to use API & can be easily integrated with any project.It includes count of many important attributes like Total tests done in country for COVID-19.</li>
         <li>To keep the awareness among people in this Pandemic, it includes symptoms, preventions, FAQs, Myth busters provided by <b>WHO</b> so that people can easily trust on the provided information.</li>
     </ul>
-    <h2>Sketches✏️</h2>
-
-   <ul>
-       <li>1.Home Page | 2.Country Details Page | 3.Symptoms & Prevention Page | 4.Quarantine tips page<br><br><img src="/sketches/home.jpg" alt="" width="200" height="475" > &nbsp;&nbsp;<img src="/sketches/country.jpg" alt="" width="200" height="475">&nbsp;&nbsp;<img src="/sketches/symptoms.jpg" alt="" width="200" height="475">&nbsp;&nbsp;<img src="/sketches/tips.jpg" alt=""width="200" height="475"></li>
-      
-   </ul>
-   <h2>Screens📱</h2>
+    <h2>Sketches✏️ & Screens📱</h2>
     <ul>
-       <li>Home Page<br><br><img src="/screens/home_pg1.png" alt="" width="260" height="496">&nbsp;&nbsp; <img src = "/screens/home_pg2.png" alt="" width="260" height="496"></li><br>
+       <li>Home Page<br><br><img src="/sketches/home.jpg" alt="" width="200" height="475" > &nbsp;&nbsp;<img src="/screens/home_pg1.png" alt="" width="260" height="496">&nbsp;&nbsp; <img src = "/screens/home_pg2.png" alt="" width="260" height="496"></li><br>
 
   <li>
-    Symptoms & Preventions Page<br><br><img src="/screens/symptoms_pg1.png" alt="" width="260" height="496">&nbsp;&nbsp;<img src  ="/screens/symptoms_pg2.png" alt="" width="260" height="496">
+    Symptoms & Preventions Page<br><br>&nbsp;&nbsp;<img src="/sketches/symptoms.jpg" alt="" width="200" height="475"><img src="/screens/symptoms_pg1.png" alt="" width="260" height="496">&nbsp;&nbsp;<img src  ="/screens/symptoms_pg2.png" alt="" width="260" height="496">
  </li><br>
  
  <li>
-     Country Details Page<br><br><img src="/screens/country_pg1.png" alt=""width="260" height="496">&nbsp;&nbsp;<img src ="/screens/country_pg2.png" alt=""width="260" height="496">&nbsp;&nbsp;<img src ="/screens/country_pg3.png" alt="" width="260" height="496">&nbsp;&nbsp;<img src ="/screens/country_pg4.png" alt="" width="260" height="496">
+     Country Details Page<br><br>&nbsp;&nbsp;<img src="/sketches/country.jpg" alt="" width="200" height="475">&nbsp;&nbsp;<img src="/screens/country_pg1.png" alt=""width="260" height="496">&nbsp;&nbsp;<img src ="/screens/country_pg2.png" alt=""width="260" height="496">&nbsp;&nbsp;<img src ="/screens/country_pg3.png" alt="" width="260" height="496">&nbsp;&nbsp;<img src ="/screens/country_pg4.png" alt="" width="260" height="496">
  </li><br>
  <li>
-    Quarantine Tips Page<br><br><img src="/screens/tips_pg1.png" alt="" width="260" height="496" >&nbsp;&nbsp;<img src ="/screens/tips_pg2.png" alt="" width="260" height="496">&nbsp;&nbsp;<img src ="/screens/tips_pg3.png" alt=""    width="260" height="496">&nbsp;&nbsp;<img src="/screens/tips_pg4.png" alt="" width="260" height="496" >
+    Quarantine Tips Page<br><br>&nbsp;&nbsp;<img src="/sketches/tips.jpg" alt=""width="200" height="475">&nbsp;&nbsp;<img src="/screens/tips_pg1.png" alt="" width="260" height="496" > &nbsp;&nbsp;<img src ="/screens/tips_pg2.png" alt="" width="260" height="496">&nbsp;&nbsp;<img src ="/screens/tips_pg3.png" alt="" width="260" height="496">&nbsp;&nbsp;<img src="/screens/tips_pg4.png" alt="" width="260" height="496" >
  </li>
  </ul>
  <h3>In action⚡</h3><br>
