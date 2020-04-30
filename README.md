@@ -16,10 +16,10 @@ A flutter based Healthcare👨‍⚕️ awareness app for the Coronavirus(COVID-
     </ul>
     <h2>Sketches✏️ & Screens📱</h2>
     <ul>
-       <li>Home Page<br><br><img src="/sketches/home.jpg" alt="" width="200" height="475" > &nbsp;&nbsp;<img src="/screens/home_pg1.png" alt="" width="260" height="496">&nbsp;&nbsp; <img src = "/screens/home_pg2.png" alt="" width="260" height="496"></li><br>
+       <li>Home Page<br><br>&nbsp;&nbsp;<img src="/sketches/home.jpg" alt="" width="200" height="475" > &nbsp;&nbsp;<img src="/screens/home_pg1.png" alt="" width="260" height="496">&nbsp;&nbsp;<img src = "/screens/home_pg2.png" alt="" width="260" height="496"></li><br>
 
   <li>
-    Symptoms & Preventions Page<br><br>&nbsp;&nbsp;<img src="/sketches/symptoms.jpg" alt="" width="200" height="475"><img src="/screens/symptoms_pg1.png" alt="" width="260" height="496">&nbsp;&nbsp;<img src  ="/screens/symptoms_pg2.png" alt="" width="260" height="496">
+    Symptoms & Preventions Page<br><br>&nbsp;&nbsp;<img src="/sketches/symptoms.jpg" alt="" width="200" height="475">&nbsp;&nbsp;<img src="/screens/symptoms_pg1.png" alt="" width="260" height="496">&nbsp;&nbsp;<img src  ="/screens/symptoms_pg2.png" alt="" width="260" height="496">
  </li><br>
  
  <li>
