@@ -11,7 +11,7 @@ A flutter based Healthcare👨‍⚕️ awareness app for the Coronavirus(COVID-
     <h2>Features and Sources of app💡</h2>
     <ul>
         <li>The main goal is to give the Live details, so it fetches data from <a href="https://corona.lmao.ninja/">Novel COVID API</a>.</li>
-        <li>Novel Covid is a free to use API & can be easily integrated with any project. Why I chose it because it includes counts of many important attributes like Total tests done in country for COVID-19.</li>
+        <li>Novel Covid is a free to use API & can be easily integrated with any project. Why I chose it because it includes counts of many important attributes like total tests done in a country for COVID-19.</li>
         <li>To keep the awareness among people in this Pandemic, it includes symptoms, preventions, FAQs, Myth busters provided by <b>WHO</b> so that people can easily trust on the provided information.</li>
     </ul>
     <h2>Sketches✏️ & Screens📱</h2>
@@ -29,7 +29,6 @@ A flutter based Healthcare👨‍⚕️ awareness app for the Coronavirus(COVID-
     Quarantine Tips Page<br><br>&nbsp;&nbsp;<img src="/sketches/tips.jpg" alt=""width="200" height="475">&nbsp;&nbsp;<img src="/screens/tips_pg1.png" alt="" width="260" height="496" > &nbsp;&nbsp;<img src ="/screens/tips_pg2.png" alt="" width="260" height="496">&nbsp;&nbsp;<img src ="/screens/tips_pg3.png" alt="" width="260" height="496">&nbsp;&nbsp;<img src="/screens/tips_pg4.png" alt="" width="260" height="496" >
  </li>
  </ul>
- <h3>In action⚡</h3><br>
-<img src="https://user-images.githubusercontent.com/47295558/80484669-b93a3500-8975-11ea-9144-6928d7465126.gif" />
+ <h3>In action⚡</h3><img src="https://user-images.githubusercontent.com/47295558/80484669-b93a3500-8975-11ea-9144-6928d7465126.gif" />
 
  <h3>Stay Healthy!✨ Stay Safe!🖖 </h3>
