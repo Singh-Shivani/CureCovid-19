@@ -5,7 +5,7 @@ A flutter based Healthcare👨‍⚕️ awareness app for the Coronavirus(COVID-
 <h2>About the app⚡</h2>
 
  <ul>
-        <li>The idea behind the app is to give the all basic details about COVID-19. Also it provides LIVE updates on cases, deaths, recover, critical patient etc. about all the Countries.</li>
+        <li>The idea behind the app is to give the all basic details about COVID-19. Also, it provides LIVE updates on cases, deaths, recover, critical patient etc. about all the Countries.</li>
         <li> The app UI design is inspired from <a href="https://www.uplabs.com/posts/coronavirus-information-concept">by Rendi Ramadana</a>. Because app includes many additional details, UI is customized in many places.</li>
     </ul>
     <h2>Features and Sources of app💡</h2>
