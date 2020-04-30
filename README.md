@@ -5,16 +5,14 @@ A flutter based Healthcare👨‍⚕️ awareness app for the Coronavirus(COVID-
 <h2>About the app⚡</h2>
 
  <ul>
-        <li>The main objective of the app is to give the details about COVID-19. Everyone must need to know about Coronavirus and information regarding the same.</li>
-        <li>This app will provide the information about coronavirus like Live Update on cases, FAQ, Myth Busters, Symptoms & Prevention, Country details regrading the coronavirus, Dead, Recover, Critical people.</li>
-        <li> The app UI design is inspired from <a href="https://www.uplabs.com/posts/coronavirus-information-concept">by Rendi Ramadana</a>. Though UI is not exactly same, some parts of app are customized.</li>
+        <li>The idea behind the app is to give the all basic details about COVID-19. Also it provides LIVE updates on cases, deaths, recover, critical patient etc. about all the Countries.</li>
+        <li> The app UI design is inspired from <a href="https://www.uplabs.com/posts/coronavirus-information-concept">by Rendi Ramadana</a>. Because app includes many additional details, UI is customized in many places.</li>
     </ul>
     <h2>Features and Sources of app💡</h2>
     <ul>
-        <li>The main feature of app is to display the real time data regrading the cases, deaths etc. in world and country by Covid-19. The app fetches the data from the API given by <a href="https://corona.lmao.ninja/">Novel COVID API</a>.</li>
-        <li>Novel Covid API is a free to use API and gives count of many attributes like: total tests done in the country, critical cases etc.</li>
-        <li>Symptoms and Preventions are also provided for the social awareness. </li>
-        <li>The app also provide information about Q&N, myth busters provided by WHO and some tips for Quarantine.</li>
+        <li>The main goal is to give the Live details, so it fetches data from <a href="https://corona.lmao.ninja/">Novel COVID API</a>.</li>
+        <li>Novel Covid API is a free to use API & can be easily integrated with any project.It includes count of many important attributes like Total tests done in country for COVID-19.</li>
+        <li>To keep the awareness among people in this Pandemic, it includes symptoms, preventions, FAQs, Myth busters provided by <b>WHO</b> so that people can easily trust on the provided information.</li>
     </ul>
     <h2>Sketches✏️</h2>
 
